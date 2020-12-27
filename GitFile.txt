@@ -18,5 +18,15 @@ git commit -m "Message..."
 //To delete file from staging
 git rm --cached <File Name.ext>
 
+//To create a branch
+git branch <Branch Name>
+
+//To work on branch
+git checkout <Branch Name>
+
+//To Merge the Branches, Come to master branch first
+git merge <Branch Name>
+
+
 
 
