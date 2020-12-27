@@ -1,0 +1,13 @@
+Git Commands
+
+git config user.email "s.shubham2974@gmail.com"
+git config user.name "Shubham Singh"
+
+//To check Status
+git status
+
+//To Add file to staging stage
+git add <file name. ext>
+
+//To commit files in staging area with message
+git commit -m "Message..."
