@@ -9,5 +9,14 @@ git status
 //To Add file to staging stage
 git add <file name. ext>
 
+//To Skip Staging area
+git commit -am "Message"
+
 //To commit files in staging area with message
 git commit -m "Message..."
+
+//To delete file from staging
+git rm --cached <File Name.ext>
+
+
+
